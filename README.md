@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**daviramosds/daviramosds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 I like to study about the amazing world of technology
+- 🌱 I'm currently learning everything
+- 🤔 'I'm looking to help with what I can
 
-Here are some ideas to get you started:
+---
+ 
+ <details>
+  <summary>:📕 Github Stats</summary>
+ 
+ ![daviramosds's github stats](https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=default&amp;hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details>
+ 
+  <details>
+  <summary>:📘 Most used languages</summary>
+ 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&amp;hide_border=true)
+
+</details>
