@@ -3,6 +3,7 @@
 - 😄 I like to study about the amazing world of technology
 - 🌱 I'm currently learning everything
 - 🤔 'I'm looking to help with what I can
+- 14 years old
 
 ---
  
