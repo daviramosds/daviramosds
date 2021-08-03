@@ -13,13 +13,13 @@
  <details>
   <summary>:📕 Github Stats</summary>
  
- ![daviramosds's github stats](https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dark&hide_border=true)
+ ![daviramosds's github stats](https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dracula&hide_border=true)
 
 </details>
  
   <details>
   <summary>:📘 Most used languages</summary>
  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosds&layout=compact&hide_border=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosds&layout=compact&hide_border=true&theme=dracula)
 
 </details>
