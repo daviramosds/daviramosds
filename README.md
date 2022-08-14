@@ -7,7 +7,7 @@
 - 💻 I like to study about the amazing world of technology
 - 🧠 I'm currently learning everything
 - 🔍 I'm looking to help
-- 📅 15 years old
+- 📅 16 years old
 ---
  
  <details>
