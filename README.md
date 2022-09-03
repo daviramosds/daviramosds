@@ -11,7 +11,6 @@
 <br/>
 
 - 🔥 Full Stack Developer
-- 💻 I like to study about the amazing world of technology
 - 🔍 Looking to help
 - 📅 16 years old
 
