@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"></h1>
 
 [![](https://img.shields.io/badge/-@daviramosds-gray?style=for-the-badge&logo=instagram&logoColor=white&labelColor=8a3ab9)](https://www.instagram.com/davirds.dev/) [![](https://img.shields.io/badge/-davirds.dev-gray?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D44638)](mailto:contact@davirds.dev)
 
