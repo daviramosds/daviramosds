@@ -11,17 +11,20 @@
 
 
 <table>
-  <td width="400px">
+  <td width="50%">
     <img
       src="https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dark&hide_border=true"
+         height="200px"
     />
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=daviramosds&theme=dark&hide_border=true"
+         height="200px"
     />
   </td>
-  <td>
+  <td width="40%">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosds&hide_border=true&theme=dark"
+         width="100%"
       alt=""
     />
   </td>
