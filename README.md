@@ -11,18 +11,6 @@
 
 ![daviramosds's github stats](https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dark&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosds&layout=compact&hide_border=true&theme=dark)
- 
- <details>
-  <summary>:📕 Github Stats</summary>
- 
- ![daviramosds's github stats](https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=daviramosds&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-</details>
- 
-  <details>
-  <summary>:📘 Most used languages</summary>
- 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviramosds&layout=compact&hide_border=true&theme=dark)
-
-</details>
-
+<a href="https://www.buymeacoffee.com/davirds"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="davirds" /></a>
