@@ -17,7 +17,10 @@
 
 <br/>
 
-<table>
+ <details>
+  <summary>:📕 See More</summary>
+ 
+ <table>
   <td width="60%">
     <img
       src="https://github-readme-stats.vercel.app/api?username=daviramosds&show_icons=true&theme=dark&hide_border=true"
@@ -35,3 +38,5 @@
     />
   </td>
 </table>
+
+</details>
