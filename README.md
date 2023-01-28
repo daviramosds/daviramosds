@@ -14,7 +14,7 @@
 - 🔥 Full Stack Developer
 - 🔍 Looking to help
 - 📅 16 years old
-- 📖 Currently studying NestJS
+- 📖 Currently studying Rust
 
 <br/>
 
