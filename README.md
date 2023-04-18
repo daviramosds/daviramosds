@@ -12,7 +12,7 @@
 
 - 🔥 Full Stack Developer
 - 🔍 Looking to help
-- 📅 16 years old
+- 📅 17 years old
 
 <br/>
 
