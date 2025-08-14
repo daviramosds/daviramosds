@@ -1,4 +1,4 @@
-<img src="banner.png" alt="👋 Hi there! I'm Davi Ramos"/>
+<img src="banner.png" alt="👋 Hi there! I'm Davi Ramos"/> 
 
 <p align="center">
   <a href="mailto:davirds.dev@gmail.com">
