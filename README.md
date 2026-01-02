@@ -1,27 +1,36 @@
-<img src="banner.png" alt="👋 Hi there! I'm Davi Ramos"/> 
+<img src="banner.png" alt="Davi Ramos Banner" width="100%" />
 
-<p align="center">
+<br />
+
+<div align="left">
   <a href="mailto:daviradesousa@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com/in/davirds">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://davirds.dev">
-    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
 
----
+<br />
 
-**🚀 Full Stack Engineer** Specialized in the JavaScript ecosystem (Node.js, NestJS, React) and scalable architectures.
+**🚀 Full Stack Engineer** <br />
+Specialized in the JavaScript ecosystem (Node.js, NestJS, React) and scalable architectures.
 
-**🔍 Open to Work** Actively looking for Full Stack opportunities (Remote).
+**🔍 Open to Work** <br />
+Actively looking for Full Stack opportunities (Remote).
 
-**📍 Based in Brazil** Florianópolis, SC.
+**📍 Based in Brazil** <br />
+Florianópolis, SC.
 
----
+<br />
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,next,tailwind,nestjs,express,prisma,postgres,mysql,mongodb,redis,docker,aws,git,linux,python&perline=10)](https://skillicons.dev)
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,python,react,next,vite,tailwind,nestjs,express,jest,prisma,postgres,mysql,mongodb,redis,rabbitmq,docker,nginx,aws,git,linux&perline=14" />
+  </a>
+</div>
